@@ -55,3 +55,30 @@ ul li{
     padding-bottom: 10px;
     margin-left: -20px;
 }
+.plans{
+    display: flex;
+    padding: 0 100px;
+    gap: 20px ;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.positive{
+    background-image: url('assets/watch12.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    margin: 0 100px;
+}
+.positive div{
+    padding: 40px 100px;
+}
+.btn2{
+border-radius: 5px;
+background: white;
+border: none;
+padding: 15px 40px;
+color: orangered;
+font-size: 20px;
+}
+
